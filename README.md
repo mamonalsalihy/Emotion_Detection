@@ -10,8 +10,9 @@ This repo contains code for:
 *   Multilayer Perceptron (TFIDF)
 *   Convolutional Neural Network (word embedding, max pooling)
 
-# File Format
-All files are created and used in google colab.
+# Setup
+Instructions:
+Step 1: Upload the dataset splits in `Datasets.zip` to Google drive.
 
 # Dataset
 To download the EmpatheticDialogues dataset:
