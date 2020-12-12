@@ -14,7 +14,7 @@ This repo contains code for:
 Instructions:
 Step 1: Upload the dataset splits in `Datasets.zip` to Google drive.
 
-# Dataset
+# Original Dataset
 To download the EmpatheticDialogues dataset:
 
     wget https://dl.fbaipublicfiles.com/parlai/empatheticdialogues/empatheticdialogues.tar.gz
