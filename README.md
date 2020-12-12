@@ -10,12 +10,12 @@ This repo contains code for:
 *   Multilayer Perceptron (TFIDF)
 *   Convolutional Neural Network (word embedding, max pooling)
 
-#Dataset
+# Dataset
 To download the EmpatheticDialogues dataset:
 
     wget https://dl.fbaipublicfiles.com/parlai/empatheticdialogues/empatheticdialogues.tar.gz
 
-#Dependencies
+# Dependencies
 The dependencies are contained in the following file:
    `requirements.txt`
    
