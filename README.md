@@ -17,8 +17,3 @@ Instructions: Upload the dataset splits in `Datasets.zip` to Google drive.
 To download the EmpatheticDialogues dataset:
 
     wget https://dl.fbaipublicfiles.com/parlai/empatheticdialogues/empatheticdialogues.tar.gz
-
-# Dependencies
-The dependencies are contained in the following file:
-   `requirements.txt`
-   
