@@ -11,8 +11,7 @@ This repo contains code for:
 *   Convolutional Neural Network (word embedding, max pooling)
 
 # Setup
-Instructions:
-Step 1: Upload the dataset splits in `Datasets.zip` to Google drive.
+Instructions: Upload the dataset splits in `Datasets.zip` to Google drive.
 
 # Original Dataset
 To download the EmpatheticDialogues dataset:
