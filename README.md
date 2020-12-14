@@ -13,6 +13,9 @@ This repo contains code for:
 # Setup
 Instructions: Upload the dataset splits in `Datasets.zip` to Google drive.
 
+# Modified Dataset
+Columns contain LIWC features which are described in detail in `LIWC Data Analysis` and it also contains a column for the reduced emotion space `emotion_category`
+
 # Original Dataset
 To download the EmpatheticDialogues dataset:
 
